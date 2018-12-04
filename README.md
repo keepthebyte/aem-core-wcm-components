@@ -32,6 +32,7 @@ Contributions are welcome! Read the [Contributing Guide](CONTRIBUTING.md) for mo
   * [Navigation](content/src/content/jcr_root/apps/core/wcm/components/navigation/v1/navigation)
   * [Page](content/src/content/jcr_root/apps/core/wcm/components/page/v2/page)
   * [Quick Search](content/src/content/jcr_root/apps/core/wcm/components/search/v1/search)
+  * [Separator](content/src/content/jcr_root/apps/core/wcm/components/separator/v1/separator)
   * [Sharing](content/src/content/jcr_root/apps/core/wcm/components/sharing/v1/sharing)
   * [Tabs](content/src/content/jcr_root/apps/core/wcm/components/tabs/v1/tabs)
   * [Teaser](content/src/content/jcr_root/apps/core/wcm/components/teaser/v1/teaser)
